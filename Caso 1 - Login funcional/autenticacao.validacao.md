@@ -11,18 +11,14 @@
 | Nome  | Valor |
 | Email | demo@firefly |
 | Senha | demo |
-
 | Criticidade | Crítico |
 
 | Pré-condições |                |
 |--------------|----------------|
 | N/A | O Usuario demo@firefly ser cadastrado no sistema com uma senha específica: demo |
 
-| Passo | Ação | Resultado esperado | Resultado |
-|------|------|----------------------|-----------|
+| Passo | Ação | Resultado esperado | 
+|------|------|----------------------|
 | 1 | Visite o endereço: [Firefly III](https://demo.firefly-iii.org/login) | Será direcionado para pagina de login | Sucesso |
 | 2 | Insira o usuario demo@firefly e a senha: demo | Usúario e senha inserida | Sucesso |
-| 3 | Clique no botão entrar | Sessão do usuario foi iniciada e direcionada para dashboard | Sucesso | 
-
-
-
+| 3 | Clique no botão entrar | Sessão do usuario foi iniciada e direcionada para dashboard |

@@ -9,18 +9,20 @@
 | Dados de Teste |               |
 |--------------|----------------|
 | Nome  | Valor |
-| Criticidade | Crítico |
+| Usuario | elis.tester@gmail.com |
+| Senha | 123456 |
+| Criticidade |  Crítico |
 
-| Pré-condições |                |
+|  Número     | Pré-condição |            
 |--------------|----------------|
-| N/A | Usuario não existe/ usuario ou senha incorretas |
+| 1 | Usuario ou senha incorreta |
 
-| Pós-condições |                |
+| Número | Pós-condição |
 |--------------|----------------|
-| N/A | precisa mostrar uma mensagem de erro com o seguinte texto: "These credentials do not match our records" |
+| 1 | These credentials do not match our records |
 
 | Passo | Ação | Resultado esperado | 
 |------|------|----------------------|
 | 1 | Visite o endereço: [Firefly III](https://demo.firefly-iii.org/login) | Será direcionado para pagina de login | Sucesso |
 | 2 | insira o seu email "elis.tester@gmail.com" e coloque a sua senha "123456"  | Usúario e senha inserida |
-| 3 | Clique no botão entrar | Aparecerá a mensagem de erro com a seguinte frase ao lado:"These credentials do not match our records" |
+| 3 | Clique no botão entrar | Usuário não foi autenticado |

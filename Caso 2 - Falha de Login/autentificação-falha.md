@@ -1,10 +1,10 @@
 # Caso de Teste: Login inválido
 
 | Falha de login |              |
-|--------------|----------------|
+|----------------|--------------|
 | Módulo       | Autentificação |
 | Funcionalidade | Validação de login e senha |
-| Requisito    | Quando a senha ou o usuario der incorreto, exibir uma mensagem de erro  |
+| Requisito    | Quando a senha ou o usuario der incorreto, exibir uma mensagem de erro |
 
 | Dados de Teste |               |
 |----------------|---------------|      

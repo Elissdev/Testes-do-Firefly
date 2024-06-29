@@ -15,6 +15,7 @@
 | Criticidade | Crítico |
 |-------------|---------|
 
+
 | Pré-condição |                |
 |--------------|----------------|
 | 1 | O Usuario demo@firefly deve ser cadastrado no sistema com uma senha específica: demo |

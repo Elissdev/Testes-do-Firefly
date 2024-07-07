@@ -6,10 +6,10 @@
 | Funcionalidade   | Redefinir senha     |
 | Requisito        | o sistema deve permitir que o usuário redefina a senha |
 
-| Dados de Teste |               |
+| Dados de Teste |              |
 |--------------|----------------|
 | Nome  | Valor |
-| Usuario | demo@firefly |
+| Usuario | elistester76@gmail.com |
 | Senha | a redefinir |
 
 
@@ -34,6 +34,3 @@
 | 2     | Inserir o endereço de e-mail registrado. | E-mail de recuperação é enviado para o endereço especificado. |
 | 3     | Abrir o e-mail recebido e seguir as instruções para redefinir a senha. | Senha é redefinida com sucesso conforme as instruções. |
 | 4     | Tentar fazer login usando a nova senha. | Login é realizado com sucesso com a nova senha. |
-
-
-

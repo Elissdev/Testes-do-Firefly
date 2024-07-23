@@ -2,13 +2,14 @@
 
 | Falha de login |              |
 |----------------|--------------|
-| Módulo       | Autentificação |
+| Módulo       | Exibir mensagem de erro |
 | Funcionalidade | Validação de login e senha |
 | Requisito    | Quando a senha ou o usuario der incorreto, exibir uma mensagem de erro |
 
-| Dados de Teste |               |
-|----------------|---------------|      
-| Nome  | Valor |
+## Dados de teste
+
+| Nome | Valor | 
+| ------- | ------- | 
 | Usuario | elis.tester@gmail.com |
 | Senha | 123456 |
 
@@ -22,7 +23,7 @@
 
 | Número | Pós-condição |
 |--------------|----------------|
-| 1 | These credentials do not match our records |
+| 1 | Mensagem de erro que deve aparecer: "These credentials do not match our records" |
 
 | Passo | Ação | Resultado esperado | 
 |------|------|----------------------|

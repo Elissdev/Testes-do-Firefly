@@ -6,11 +6,12 @@
 | Funcionalidade | Iniciar sessão no sistema |
 | Requisito    | Ao indicar as credenciais corretas e realizar login, o sistema deverá iniciar a sessão |
 
-| Dados de Teste |               |
-|--------------|----------------|
-| Nome  | Valor |
+## Dados de teste
+
+| Nome | Valor | 
+| ------- | ------- | 
 | Email | demo@firefly |
-| Senha | demo |
+| Senha | demo | 
 
 | Criticidade | Crítico |
 |-------------|---------|

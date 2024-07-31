@@ -12,10 +12,10 @@
 
 | Nome           | Valor                |
 |----------------|----------------------|
-| Nome da Conta  | Conta corrente       |
+| Conta  | corrente |
 | Saldo Inicial  | €1,623.42            |
 | Moeda          | Euro (€, EUR)        |
-| Número da Conta| 12345678-9            |
+| Número da Conta| 12345678-9           |
 | Comentários    | Conta corrente para despesas gerais |
 
 ## Criticidade

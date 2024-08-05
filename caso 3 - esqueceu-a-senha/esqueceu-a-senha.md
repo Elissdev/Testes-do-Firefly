@@ -26,7 +26,7 @@
 
 | Passo | Ação | Resultado Esperado |
 |-------|------|--------------------|
-| 1     | Acessar a página de login e clicar em "Esqueci a minha senha" | Página de recuperação de senha é carregada corretamente |
+| 1     | Acessar a página de login e clicar em "Esqueci a minha senha" | Página de recuperação de senha é carregada |
 | 2     | Inserir o endereço de e-mail registrado: elistester76@gmail.com | E-mail de recuperação é enviado para o endereço especificado |
 | 3     | Abrir o e-mail de redefinição de senha: Clicar no link de redefinição, inserir e confirmar nova senha | Senha é redefinida com sucesso |
-| 4     | Tentar fazer login usando a nova senha | Login é realizado com sucesso com a nova senha |
+| 4     | Tentar fazer login usando a nova senha | Login é realizado com sucesso, com a nova senha |

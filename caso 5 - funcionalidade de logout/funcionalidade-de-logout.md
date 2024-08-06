@@ -2,8 +2,9 @@
 
 | Logout |         |
 | -------|---------|
-| Módulo | Funcionalidade de Logout |
-| Requisito | Verificar se a funcionalidade de logoutfunciona corretamente, encerrando a sessão do usuário e redirecionando-o para a página de login |
+| Módulo | Autenticação |
+| Funcionalidade | Logout |
+| Requisito | Encerrar a sessão do usuário e redirecionar para a página de login |
 
 ## Dados de teste
 
@@ -22,7 +23,8 @@
 
 | Pós-condições |       |
 | ------------- | ----- |
-| 1 | O usuário deve estar na página de login e não deve ter acesso a páginas ou informações protegidas sem fazer login novamente|
+| 1 | O usuário deve estar na página de login |
+| 2 | O usuário não deve ter acesso a páginas ou  informações protegidas sem fazer login novamente |
 
 | Passo | Ação | Resultado esperado |
 | ------| ---- | ------------------ |

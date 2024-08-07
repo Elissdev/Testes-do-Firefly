@@ -9,14 +9,14 @@
 | Criticidade | Normal |
 | ----------- | ------- | 
 
-| Pré-condição |            
-| ------------ | 
-| O usuário deve estar logado no sistema e na página da dashboard |
+| Pré-condição |          |     
+| ------------ | -------- |
+| 1 | O usuário deve estar logado no sistema e na página da dashboard |
 
 
-| Pós-condição | 
-| ------------ |
-A dashboard deve exibir dados corretos para qualquer período selecionado |
+| Pós-condição |          |
+| ------------ | -------- |
+| 1 | A dashboard deve exibir dados corretos para qualquer período selecionado |
 
 
 | Passo | Ação | Resultado Esperado |

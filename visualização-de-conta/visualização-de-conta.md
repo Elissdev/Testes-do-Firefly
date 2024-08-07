@@ -2,8 +2,9 @@
 
 | Visualização de Conta |           |
 | --------------------- |-----------|
-| Módulo | Funcionalidade de Contas |
-| Requisito | Verificar se o usuário consegue visualizar as despesas e receitas de uma conta criada |
+| Módulo | Conta |
+| Funcionalidade | Visualizar conta |
+| Requisito | Verificar se o usuário consegue visualizar corretamente a conta criada |
 
 ## Dados de teste
 
@@ -33,7 +34,5 @@
 
 | Passo | Ação | Resultado esperado |
 | ----- | ---- | ------------------ |
-| 1 | Acesse a página principal do site ([Firefly](https://demo.firefly-iii.org)) | A página principal do site deverá ser exibida |
-| 2 | Insira seu usuário, senha e clique em entrar | Será redirecionado para página inicial |
-| 3 | No menu suspenso ao lado esquerdo da página, clique na opção "Accounts" | Logo abaixo, as opções de contas deverá ser exibida |
-| 4 | Selecione uma das contas listadas | A página de visualização da conta deverá ser exibida, mostrando as despesas e receitas da conta selecionada |
+| 1 | No menu suspenso ao lado esquerdo da página, clique na opção "Accounts" | Logo abaixo, as opções de contas deverá ser exibida |
+| 2 | Selecione uma das contas listadas. Ex: Supermercado | A página de visualização da conta deverá ser exibida, mostrando as despesas e receitas da conta selecionada |

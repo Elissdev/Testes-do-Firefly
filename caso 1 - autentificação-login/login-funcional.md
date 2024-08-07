@@ -17,14 +17,19 @@
 | Criticidade | Crítico |
 |-------------|---------| 
 
-| Pré-condição |               |
-|--------------|---------------|
+## Pré-condições
+
+| Nº | Descrição |
+| -- | ----------|
 | 1 | O Usuario demo@firefly ser cadastrado no sistema com uma senha específica: demo |
 
-| Pós-condição |               |
-|--------------|---------------|
+## Pós-condições
+
+| Nº |  Descrição |
+| -- |----------- |
 | 1 | Sessão iniciada |    
 
+## Passos
 
 | Passo | Ação | Resultado esperado | 
 |------|------|----------------------|

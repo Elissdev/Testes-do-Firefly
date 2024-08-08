@@ -9,17 +9,21 @@
 | Criticidade | Normal |
 | ----------- | ------- | 
 
-| Pré-condição |          |     
-| ------------ | -------- |
-| 1 | O usuário deve estar logado no sistema e na página da dashboard |
+## Pré-condição
 
+| Nº | Descrição |     
+| -- | -------- |
+| 1  | O usuário deve estar logado no sistema e na página da dashboard |
 
-| Pós-condição |          |
-| ------------ | -------- |
+## Pós-condição
+
+| Nº | Descrição|
+| -- | -------- |
 | 1 | A dashboard deve exibir dados corretos para qualquer período selecionado |
 
+## Passos
 
-| Passo | Ação | Resultado Esperado |
+| Nº | Ação | Resultado Esperado |
 |-------| --------------- | ------- |
 | 1     | Assim que fizer o login, a pagina é aberta na dashboard  | A dashboard é carregada com o período padrão (por exemplo, mês atual) |
 | 2     | Selecionar período desejado (ex: último mês) na opção de orçamentos e navegador de periodo | O período selecionado é alterado e a dashboard é recarregada |

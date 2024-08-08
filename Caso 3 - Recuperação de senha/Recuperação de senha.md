@@ -15,16 +15,22 @@
 | Criticidade | Crítico |
 | ----------- | ------- | 
 
-| Pŕe-Condição |        |
+## Pré-condição
+
+| Nº | Descrição |
 | ------------ |--------|
 | 1 | O usuário deve ter um endereço de e-mail registrado no sistema para recuperação de senha |
 
-| Pós-Condição |        |
+## Pós-condição
+
+| Nº |  Descrições |
 | ------------ | ------ |
 | 1 | A senha é redefinida com sucesso e o usuário pode fazer login com a nova senha |
 | 2 | O usuário deve conseguir acessar sua conta usando a nova senha após o processo de recuperação de senha |
 
-| Passo | Ação | Resultado Esperado |
+# Passos
+
+| Nº | Ação | Resultado Esperado |
 |-------|------|--------------------|
 | 1     | Acessar a página de login e clicar em "Esqueci a minha senha" | Página de recuperação de senha é carregada |
 | 2     | Inserir o endereço de e-mail registrado: elistester76@gmail.com | E-mail de recuperação é enviado para o endereço especificado |

@@ -38,7 +38,7 @@
 
 ## Passos
 
-| Passo | Ação | Resultado Esperado |
+| Nº | Ação | Resultado Esperado |
 |-------|------|--------------------|
 | 1 | Acesse a página de criação de conta | A página de criação de conta deve ser exibida |
 | 2 | Insira o nome da conta | o nome da conta deve ser aceito pelo sistema |

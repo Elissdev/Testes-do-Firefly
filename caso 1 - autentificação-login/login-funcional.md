@@ -30,7 +30,7 @@
 
 ## Passos
 
-| Passo | Ação | Resultado esperado | 
+| Nº | Ação | Resultado esperado | 
 |------|------|----------------------|
 | 1 | Visite o endereço: [Firefly III](https://demo.firefly-iii.org/login) | Será direcionado para pagina de login |
 | 2 | Insira o usuario demo@firefly e a senha: demo | Usúario e senha inserida |

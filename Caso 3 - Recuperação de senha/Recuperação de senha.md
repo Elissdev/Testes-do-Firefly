@@ -1,6 +1,6 @@
-# Caso de Teste: Esqueci minha Senha
+# Caso de Teste 3: Recuperação de senha
 
-| Esqueceu a senha |                     |
+| Recuperação de senha |                     |
 | ---------------- | ------------------- |
 | Módulo           | Esqueci minha senha |
 | Funcionalidade   | Redefinir senha     |
@@ -23,7 +23,7 @@
 
 ## Pós-condição
 
-| Nº |  Descrições |
+| Nº |  Descrição |
 | ------------ | ------ |
 | 1 | A senha é redefinida com sucesso e o usuário pode fazer login com a nova senha |
 | 2 | O usuário deve conseguir acessar sua conta usando a nova senha após o processo de recuperação de senha |

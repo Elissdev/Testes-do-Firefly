@@ -1,4 +1,4 @@
-# Caso de Teste: Funcionalidade de Login
+## Caso de Teste 1: Funcionalidade de Login
 
 | Login Válido |                |
 |--------------|----------------|
@@ -16,13 +16,13 @@
 | Criticidade | Crítico |
 |-------------|---------| 
 
-## Pré-condições
+## Pré-condição
 
 | Nº | Descrição |
 | -- | ----------|
 | 1 | O Usuario demo@firefly ser cadastrado no sistema com uma senha específica: demo |
 
-## Pós-condições
+## Pós-condição
 
 | Nº |  Descrição |
 | -- |----------- |

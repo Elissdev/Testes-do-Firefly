@@ -1,4 +1,4 @@
-# Caso de Teste 5: Funcionalidade de Logout no Firefly
+# Caso de Teste 5: Funcionalidade de Logout 
 
 | Logout |         |
 | -------|---------|

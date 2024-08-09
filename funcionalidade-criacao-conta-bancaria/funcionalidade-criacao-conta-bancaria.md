@@ -22,14 +22,14 @@
 | Criticidade | Critico |
 |-------------|---------|
 
-## Pré-condições
+## Pré-condição
 
 | Nº | Descrição |
 |----|-----------|
 | 1  | O usuário deve estar logado no site [ Firefly ]( https://www.firefly.com )  |
 | 2  | O usuário deve ter acesso à funcionalidade de criação de conta |
 
-## Pós-condições
+## Pós-condição
 
 | Nº | Descrição |
 |----|-----------|

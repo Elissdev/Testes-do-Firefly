@@ -16,16 +16,16 @@
 | Criticidade | Critico |
 | ----------- | --------|
 
-## Pré condições
+## Pré-condição
 
-| Nº | Descrições |
+| Nº | Descrição |
 | ----------- | ----- |
 | 1 | O usuário deve acessar e fazer o login no site do Firefly |
 | 2 | O navegador deve estar aberto na página principal após o login |
 
-## Pós-condições
+## Pós-condição
 
-| Nº |   Descrições   |
+| Nº |   Descrição   |
 | ------------- | ----- |
 | 1 | O usuário deve estar na página de login |
 | 2 | O usuário não deve ter acesso a páginas ou  informações protegidas sem fazer login novamente |

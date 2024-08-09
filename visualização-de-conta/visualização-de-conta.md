@@ -1,4 +1,4 @@
-# Caso de Teste: Visualização de Conta
+# Caso de Teste 7: Visualização de Conta
 
 | Visualização de Conta |           |
 | --------------------- |-----------|
@@ -16,14 +16,14 @@
 | Criticidade | Crítico |
 | ----------- | ------- |
 
-## Pré-condições
+## Pré-condição
 
-| Nº | Descrições |
+| Nº | Descrição |
 | -- | --------- |
 | 1 | O usuário deve estar logado no site do Firefly |
 | 2 | Deve haver pelo menos uma conta criada com despesas e receitas registradas |
 
-## Pós-condições
+## Pós-condição
 
 | Nº | Descrição |
 | -- | --------- |

@@ -3,7 +3,7 @@
 | Alterar periodo da Dashboard | |
 | ---------------- | ----------|
 | Módulo           | Dashboard |
-| Funcionalidade   | Alterar o período na dashboard com os dados corretos |
+| Funcionalidade   | Alterar o período na dashboard |
 | Requisito        | Visualizar dados em diferentes janelas de tempo |
 
 | Criticidade | Normal |

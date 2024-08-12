@@ -6,13 +6,6 @@
 | Funcionalidade | Logout |
 | Requisito | Encerrar a sessão do usuário e redirecionar para a página de login |
 
-## Dados de teste
-
-| Nome | valor |
-| ---- | ----- |
-| Usuario | demo@firefly |
-| Senha | **** |
-
 | Criticidade | Critico |
 | ----------- | --------|
 

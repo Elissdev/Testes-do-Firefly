@@ -1,10 +1,10 @@
-# Caso de Teste 7: Visualização de Conta poupança
+# Caso de Teste 7: Visualização de conta de investimentos
 
-| Visualização de Conta poupança|           |
+| Visualização de conta de investimentos|           |
 | --------------------- |-----------|
-| Módulo | poupança |
-| Funcionalidade | Visualizar conta poupança |
-| Requisito | Verificar se o usuário consegue visualizar corretamente a conta poupança |
+| Módulo | Contas |
+| Funcionalidade | Visualizar conta |
+| Requisito | Visualizar corretamente a conta selecionada |
 
 ## Dados de teste
 
@@ -12,6 +12,7 @@
 | ---- | ----- |
 | Usuário | demo@firefly |
 | Senha | **** |
+| Conta | Investimentos |
 
 | Criticidade | Crítico |
 | ----------- | ------- |
@@ -26,11 +27,12 @@
 
 | Nº | Descrição |
 | -- | --------- |
-| 1 | O usuário deve conseguir visualizar a conta poupança detalhadamente |
+| 1 | O usuário deve conseguir visualizar a conta selecionada detalhadamente |
 
 ## Passos
 
 | Nº | Ação | Resultado esperado |
 | ----- | ---- | ------------------ |
 | 1 | No menu suspenso ao lado esquerdo da página, clique na opção "Accounts" | Logo abaixo, as opções de contas deverá ser exibida |
-| 2 | Selecione contas de ativos | A página de visualização da conta deverá ser exibida, mostrando as transações da conta selecionada |
+| 2 | Selecione contas de investimentos | Abrirá uma página de listagem de contas |
+| 3 | Selecione conta Poupança | A visualização da conta deverá ser exibida, mostrando as transações da conta selecionada |

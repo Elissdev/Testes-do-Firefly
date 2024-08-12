@@ -11,6 +11,7 @@
 | Nome  | Valor |
 |-------|-------|
 | Usuario | elistester76@gmail.com |
+| Senha   | 4617 |
 
 | Criticidade | Crítico |
 | ----------- | ------- | 
@@ -35,7 +36,7 @@
 | 2     | Inserir o endereço de e-mail registrado: elistester76@gmail.com | E-mail de recuperação inserido |
 | 3     | Clicar no botão enviar  | E-mail de recuperação é enviado para o endereço especificado |
 | 4     | Clique no link de redefinição | Aparecerá o formulário de redefinição de senha |
-| 5     | Inserir nova senha  | Pedirá para inserir a nova senha |
-| 6     | Confirmar nova senha | Pedirá para confirmar a nova senha |
+| 5     | Inserir nova senha: 4617 | Nova senha escolhida inserida |
+| 6     | Confirmar nova senha: 4617 | Nova senha escolhida é confirmada |
 | 7     | Clicar no botão de enviar formulário | O formulário é enviado |
 | 8     | Tentar fazer login usando a nova senha | Login é realizado com sucesso, com a nova senha |

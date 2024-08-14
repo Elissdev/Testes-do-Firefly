@@ -16,10 +16,11 @@
 
 | Nº| Descrição |
 |---|  -------- |
-| 1 | Usuário acessa a página de passivos |
+| 1 | Usuário lista a página de passivos |
 | 2 | Usuário visualiza a lista de passivos |
 | 3 | Usuário adiciona um novo passivo |
 | 4 | Usuário edita um passivo existente |
+| 5 | Usuário remove um passivo existente |
 
 ## Fluxos Alternativos
 

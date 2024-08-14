@@ -1,4 +1,4 @@
-## Caso de Teste 2: Adicionar um Novo Passivo
+## Caso de Teste 9: Adicionar um Novo Passivo
 
 | Adicionar um novo passivo |               |
 |---------------------------|---------------|

@@ -1,4 +1,4 @@
-## Caso de Uso Create: Gerenciar Passivos - CRUD
+## Caso de uso: Criar passivo
 
 | Módulo         | Contas |
 |----------------|--------------------|

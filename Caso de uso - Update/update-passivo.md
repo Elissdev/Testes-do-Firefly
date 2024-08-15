@@ -1,4 +1,4 @@
-## Caso de Uso Update: Gerenciar Passivos - CRUD
+## Caso de Uso: Update
 
 | Módulo         | Contas                     |
 |--------------- |----------------------------|
@@ -18,7 +18,7 @@
 |---|  -------- |
 | 1 | Usuário acessa a página de passivos |
 | 2 | Usuário seleciona um passivo para edição |
-| 3 | Usuário altera as informações do passivo: Nome, moeda, tipo de responsabilidade,	responsabilidade dentro/fora, valor devido e data |
+| 3 | Usuário altera as informações do passivo: Nome, moeda, tipo de responsabilidade, responsabilidade dentro/fora, valor devido e data |
 | 4 | Usuário confirma as alterações |
 | 5 | Sistema salva as alterações do passivo |
 

@@ -18,7 +18,7 @@
 |---|  -------- |
 | 1 | Usuário acessa a página de passivos |
 | 2 | Usuário clica em "Adicionar Passivo" |
-| 3 | Usuário insere as informações do novo passivo |
+| 3 | Usuário insere as informações do novo passivo: Nome, moeda, tipo de responsabilidade,	responsabilidade dentro/fora, valor devido e data |
 | 4 | Usuário confirma a adição do passivo |
 | 5 | Sistema salva o novo passivo |
 

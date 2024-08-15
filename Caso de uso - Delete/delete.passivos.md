@@ -1,4 +1,4 @@
-## Caso de Uso Delete: Gerenciar Passivos - CRUD
+## Caso de Uso: Delete
 
 | Módulo         | Contas             |
 |----------------|--------------------|

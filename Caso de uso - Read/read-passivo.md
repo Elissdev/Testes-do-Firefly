@@ -1,7 +1,7 @@
 ## Caso de Uso Read: Gerenciar Passivos - CRUD
 
-| Módulo        | Contas |
-|-------------------|--------------------|
+| Módulo         | Contas |
+|--------------- |--------------------|
 | Funcionalidade | Ler Passivo (Read) |
 | Atores         | Usuário, Sistema |
  
@@ -18,7 +18,7 @@
 |---|  -------- |
 | 1 | Usuário acessa a página de passivos |
 | 2 | Sistema exibe a lista de passivos existentes |
-| 3 | Usuário visualiza os detalhes de um passivo específico |
+| 3 | Usuário visualiza um passivo específico |
 
 #### Fluxos Alternativos
 
@@ -30,4 +30,4 @@
 
 | Nº | Descrição |
 | -- | --------- |
-| 1 | O sistema exibe as informações corretas dos passivos solicitados pelo usuário |
+| 1 | O sistema exibe as informações corretas dos passivos solicitados pelo usuário: Nome, moeda, tipo de responsabilidade,	responsabilidade dentro/fora, valor devido e data |

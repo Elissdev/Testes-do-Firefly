@@ -1,9 +1,9 @@
 ## Caso de Uso Create: Gerenciar Passivos - CRUD
 
-| **Módulo**        | Contas |
-|-------------------|--------------------|
-| **Funcionalidade**| Criar Passivo (create) |
-| **Atores**        | Usuário, Sistema |
+| Módulo         | Contas |
+|----------------|--------------------|
+| Funcionalidade | Criar Passivo (create) |
+| Atores         | Usuário, Sistema |
  
 #### Pré-condição
 

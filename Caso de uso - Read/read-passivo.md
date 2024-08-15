@@ -1,4 +1,4 @@
-## Caso de Uso Read: Gerenciar Passivos - CRUD
+## Caso de Uso: Read
 
 | Módulo         | Contas |
 |--------------- |--------------------|

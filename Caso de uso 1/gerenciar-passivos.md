@@ -1,9 +1,9 @@
 ## Caso de Uso: Gerenciar Passivos
 
-| **Módulo**        | Contas |
+|     Módulo        | Contas |
 |-------------------|--------------------|
-| **Funcionalidade**| Gerenciar : visualizar, adicionar, editar e remover investimentos no sistema de controle financeiro |
-| **Atores**        | Usuário, Sistema |
+|   Funcionalidade  | Gerenciar : visualizar, adicionar, editar e remover investimentos no sistema de controle financeiro |
+|   Atores          | Usuário, Sistema |
  
  ## Pré-condição 
 
@@ -26,12 +26,12 @@
 
 | Nº | Descrição |
 | -- | --------- |
-| Ator 1 | Cancelar criação/edição de passivos |
-| Ator 2 | Erro nos dados inseridos |
+| Ator 1 (usuário) | Cancelar criação/edição de passivos |
+| Ator 2 (Sistema) | Erro nos dados inseridos |
 
  ## Pós-condição 
 
 | Nº | Descrição |
 | -- | --------- |
-| 1 | O sistema armazena as informações atualizadas sobre os passivos do usuário |
+| 1 | O sistema armazena as informações atualizadas sobre os passivos do usuário: Nome, tipo de responsabilidade, responsabilidade dentro/fora,	juros, valor devido	e se está ativo |
 | 2 | A lista de investimentos reflete todas as modificações feitas pelo usuário |

@@ -1,4 +1,4 @@
-## Caso de Uso: Delete
+## Caso de Uso 4: Deletar
 
 | Módulo         | Contas             |
 |----------------|--------------------|

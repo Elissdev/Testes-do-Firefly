@@ -1,4 +1,4 @@
-## Caso de Uso: Read
+## Caso de Uso 2: Ler
 
 | Módulo         | Contas |
 |--------------- |--------------------|

@@ -1,4 +1,4 @@
-## Caso de Uso 4: Deletar
+## Caso de Uso 4: Deletar passivos
 
 | Módulo         | Contas             |
 |----------------|--------------------|

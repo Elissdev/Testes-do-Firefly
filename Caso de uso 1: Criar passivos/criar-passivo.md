@@ -1,4 +1,4 @@
-## Caso de uso 1: Criar 
+## Caso de uso 1: Criar passivos
 
 | Módulo         | Contas |
 |----------------|--------------------|

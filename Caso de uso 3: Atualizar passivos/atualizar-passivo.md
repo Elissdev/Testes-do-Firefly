@@ -1,4 +1,4 @@
-## Caso de Uso 3: Atualizar
+## Caso de Uso 3: Atualizar passivos
 
 | Módulo         | Contas                     |
 |--------------- |----------------------------|

@@ -1,4 +1,4 @@
-## Caso de Uso 2: Ler
+## Caso de Uso 2: Ler passivos
 
 | Módulo         | Contas |
 |--------------- |--------------------|

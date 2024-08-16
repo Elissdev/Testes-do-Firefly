@@ -2,7 +2,7 @@
 
 | Módulo         | Contas             |
 |----------------|--------------------|
-| Funcionalidade | Deletar Passivo (delete) |
+| Funcionalidade | Deletar Passivo    |
 | Atores         | Usuário, Sistema |
  
 #### Pré-condição

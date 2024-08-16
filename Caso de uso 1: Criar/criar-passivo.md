@@ -2,7 +2,7 @@
 
 | Módulo         | Contas |
 |----------------|--------------------|
-| Funcionalidade | Criar Passivo (create) |
+| Funcionalidade | Criar Passivo |
 | Atores         | Usuário, Sistema |
  
 #### Pré-condição

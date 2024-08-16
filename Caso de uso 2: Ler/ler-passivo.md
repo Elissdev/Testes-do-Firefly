@@ -2,7 +2,7 @@
 
 | Módulo         | Contas |
 |--------------- |--------------------|
-| Funcionalidade | Ler Passivo (Read) |
+| Funcionalidade | Ler Passivo |
 | Atores         | Usuário, Sistema |
  
 #### Pré-condição

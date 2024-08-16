@@ -2,7 +2,7 @@
 
 | Módulo         | Contas                     |
 |--------------- |----------------------------|
-| Funcionalidade | Atualizar Passivo (update) |
+| Funcionalidade | Atualizar Passivo          |
 | Atores         | Usuário, Sistema           | 
  
 #### Pré-condição

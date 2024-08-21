@@ -30,8 +30,8 @@
 | 1 | Acesse a página de criação de despesa no campo do lado esquerdo "Bills"| A página de criação de despesa deve ser exibida |
 | 2 | Insira o nome da despesa | o nome da despesa deve ser aceito pelo sistema |
 | 3 | Selecione o tipo de moeda | O tipo de Moeda deverá ser selecionado. EX: EUR |
-| 4 | Insira a quantidade Minima | A quantidade minina deverá ser exibida conforme a escolha do Usúario |
-| 5 | Insira a quantia máxima | A quantidade minina deverá ser exibida conforme a escolha do Usúario |
+| 4 | Insira a quantidade Minima | A quantidade minina deverá ser exibida conforme a escolha do usuário |
+| 5 | Insira a quantia máxima | A quantidade minina deverá ser exibida conforme a escolha do usuário |
 | 6 | Insira a data da criação da despesa | A data será inserida conforme o dia da criação da despesa |
 | 7 | Selecione a opção de repetição | Deverá aparecer as opções: Diario, semanalmente, por mês, trimestral, a cada semestre ou anual |
 | 8 | Clique em "Armazenar nova fatura" para criar a despesa | A nova despesa deve ser criada e exibida na lista de despesas com a mensagem "Success! Stored new bill"|

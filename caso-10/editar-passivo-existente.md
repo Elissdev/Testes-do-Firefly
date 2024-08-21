@@ -14,7 +14,7 @@
 | Nº | Descrição |
 |----|-----------|
 | 1  | O usuário deve estar autenticado no sistema |
-| 2  | O usuário deve ter permissão para editar passivos |
+| 2  | O sistema deve ter um passivo cadastrado |
 
 ## Pós-condição
 
@@ -26,9 +26,15 @@
 
 | Nº | Ação | Resultado Esperado |
 |----|------|--------------------|
-| 1  | Navegar até a página de passivos | A página de passivos deve ser exibida |
-| 2  | Clique em "Actions" ao lado do passivo a ser editado. Ex: Notebook | Deverá aparecer a opção de editar |
-| 3  | Clique em "Edit" | A página de edição de passivo deve ser exibida |
-| 4  | Alterar as informações necessárias (Nome, moeda, tipo de responsabilidade, responsabilidade dentro/fora, valor devido e data) | As alterações devem ser aceitas pelo sistema |
-| 5  | Clique em "Update liability" para confirmar a edição do passivo| Deverá aparecer a mensagem: "Success! Updated account " |
-| 6  | Sistema salva as alterações do passivo | O passivo editado deve aparecer na lista atualizada |
+| 1  | Navegue até o campo do lado esquerdo "Accounts"| As opções de Accounts deve ser exibida |
+| 2  | Clique em "liability" | A lista de passivos será exibida |
+| 3  | Clique em "Actions" ao lado do passivo a ser editado. Ex: Notebook | Deverá aparecer a opção de editar |
+| 4  | Clique em "Edit" | A página de edição de passivo deve ser exibida |
+| 5  | Altere o nome do passivo | O nome do passivo deve ser aceito pelo sistema |
+| 6  | Altere o tipo de moeda | O tipo de moeda deve ser aceito pelo sistema |
+| 7  | Altere o tipo de responsabilidade | O tipo de responsabilidade deve ser aceito pelo sistema |
+| 8  | Altere o tipo de responsabilidade dentro/fora | A alteração deverá ser exibida conforme a escolha do usuário |
+| 9  | Altere o valor devido | A alteração deverá ser exibida conforme a escolha do usuário |
+| 10 | Altere a data de início da dívida | A data será alterada conforme a escolha do usuário|
+| 11  | Clique em "Update liability" para confirmar a edição do passivo| Deverá aparecer a mensagem: "Success! Updated account " |
+| 12  | Sistema salva as alterações do passivo | O passivo editado deve aparecer na lista atualizada |

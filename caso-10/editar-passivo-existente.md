@@ -37,4 +37,3 @@
 | 9  | Altere o valor devido | A alteração deverá ser exibida conforme a escolha do usuário |
 | 10 | Altere a data de início da dívida | A data será alterada conforme a escolha do usuário|
 | 11  | Clique em "Update liability" para confirmar a edição do passivo| Deverá aparecer a mensagem: "Success! Updated account " |
-| 12  | Sistema salva as alterações do passivo | O passivo editado deve aparecer na lista atualizada |

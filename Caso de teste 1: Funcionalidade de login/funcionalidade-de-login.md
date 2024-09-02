@@ -6,6 +6,7 @@
 | Funcionalidade | Iniciar sessão no sistema |
 | Requisito    | Ao indicar as credenciais corretas e realizar login, o sistema deverá iniciar a sessão |
 
+<<<<<<< Updated upstream:Caso de teste 1: Funcionalidade de login/funcionalidade-de-login.md
 ## Dados de Teste
 
 | Nome  | Valor |
@@ -29,6 +30,21 @@
 | 1 | Sessão iniciada |    
 
 ## Passos
+=======
+## Dados de teste
+
+| Nome | Valor | 
+| ------- | ------- | 
+| Email | demo@firefly |
+| Senha | demo | 
+
+| Criticidade | Crítico |
+|------------ | --------|
+
+| Pré-condições |                |
+|--------------|----------------|
+| 1 | O Usuario demo@firefly ser cadastrado no sistema com uma senha específica: demo |
+>>>>>>> Stashed changes:Caso 1 - Login funcional/autenticacao.validacao.md
 
 | Nº | Ação | Resultado esperado | 
 |------|------|----------------------|

@@ -1,9 +1,6 @@
-const { defineConfig } = require("cypress");
-
-module.exports = defineConfig({
+// cypress.config.js
+module.exports = {
   e2e: {
-    setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
-  },
-});
+    baseUrl: 'https://demo.firefly-iii.org', // Defina a base URL para o Firefly III
+  }
+}

@@ -13,8 +13,7 @@ describe('Teste do período da dashboard no Firefly III', () => {
     cy.url().should('eq', 'https://demo.firefly-iii.org/');
 
     cy.get('#daterange').click();
-    cy.get('button[type="submit"]').click();
-
+    
     // Selecionar o período "September 1st, 2024 - September 30th, 2024"
     cy.contains('September 1st, 2024 - September 30th, 2024').click();
 
@@ -23,5 +22,6 @@ describe('Teste do período da dashboard no Firefly III', () => {
 
     // Dados da dashboard estão de acordo com o período selecionado
     cy.get('.sidebar-menu > :nth-child(1) > a > span').should('exist'); 
+   
   });
 });

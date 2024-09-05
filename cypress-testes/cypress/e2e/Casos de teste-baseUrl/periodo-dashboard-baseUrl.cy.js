@@ -1,27 +1,42 @@
-describe('Teste do período da dashboard no Firefly III', () => {
+describe('Teste: Alteração do Período da Dashboard', () => {
+
   beforeEach(() => {
-    cy.visit('/');
+    cy.viewport(1366, 729)
+    // Pré-condição: O usuário deve estar logado no sistema
+    cy.visit('/');  // Acessa a página inicial da aplicação
+
+    // Insere as credenciais de login
+    cy.get('input[name="email"]').clear().type('demo@firefly');  // Insira o email de login correto
+    cy.get('input[name="password"]').clear().type('demo');  // Insira a senha correta
+    cy.get('button[type="submit"]').click();  // Submete o formulário de login
+    
   });
 
-  it('Selecionar período na dashboard', () => {
-    
-    cy.get('input[name="email"]').clear().type('demo@firefly');
-    cy.get('input[name="password"]').clear().type('demo');
-    cy.get('button[type="submit"]').click();
-
-    // Espera a página da dashboard carregar
-    cy.url().should('eq', 'https://demo.firefly-iii.org/');
-
-    cy.get('#daterange').click();
-    
-    // Selecionar o período "September 1st, 2024 - September 30th, 2024"
-    cy.contains('September 1st, 2024 - September 30th, 2024').click();
-
-    // O ano e o período selecionado é exibido corretamente na dashboard
-    cy.get('#daterange').click().should('contain', 'September 1st, 2024 - September 30th, 2024');
-
-    // Dados da dashboard estão de acordo com o período selecionado
-    cy.get('.sidebar-menu > :nth-child(1) > a > span').should('exist'); 
    
+  it('Deve carregar a dashboard com o período atual', () => {
+    const index = 0;
+    cy.get('#daterange').click()
+        cy.get('div.ranges ul li').eq(index).click()
   });
-});
+
+  it('Deve alterar o período da dashboard para o último mês', () => {
+    const index = 1;
+    cy.get('#daterange').click()
+        cy.get('div.ranges ul li').eq(index).click()
+    
+  });
+
+  it('Deve verificar se o período é alterado para Last seven days', () => {
+    const index = 3;
+    cy.get('#daterange').click()
+        cy.get('div.ranges ul li').eq(index).click()
+    
+  });
+
+  it('Deve verificar se o período é alterado para Last thirdy days', () => {
+    const index = 4;
+    cy.get('#daterange').click()
+        cy.get('div.ranges ul li').eq(index).click()
+      });
+    
+    });

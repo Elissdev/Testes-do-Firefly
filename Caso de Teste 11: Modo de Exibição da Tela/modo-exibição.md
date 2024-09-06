@@ -39,6 +39,6 @@
 | 5 | Na Dashboard, clique em "Options" | Será exibido o menu de opções |
 | 6 | Selecione "Preferences" | Será exibida a página de preferências |
 | 7 | Na seção "Layout", selecione "Always dark" | A opção "Always dark" deve ser selecionada |
-| 8 | Salve as configurações | As configurações devem ser aplicadas |
+| 8 | Clique no botão "Save Settings" | As configurações devem ser aplicadas |
 | 9 | Verifique se a interface mudou para o modo escuro | A interface deve ser exibida no modo escuro |
 | 10 | Faça logout e faça login novamente | A configuração de "Always dark" deve ser aplicada e persistir |

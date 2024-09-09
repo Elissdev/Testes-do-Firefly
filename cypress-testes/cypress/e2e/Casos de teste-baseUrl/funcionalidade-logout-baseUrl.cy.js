@@ -1,10 +1,6 @@
 describe('Teste de Funcionalidade de Logout', () => {
     before(() => {
-      cy.visit('/login');
-      cy.get('input[name="email"]').clear().type('demo@firefly');
-      cy.get('input[name="password"]').clear().type('demo');
-      cy.get('button[type="submit"]').click();
-      cy.url().should('include', '/');
+      cy.login();
     });
   
     it('Deve permitir o logout com sucesso', () => {

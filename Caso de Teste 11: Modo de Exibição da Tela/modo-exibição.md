@@ -13,7 +13,7 @@
 
 | Nº | Descrição |
 | -- | ----------|
-| 1 | O Usuário deve estar cadastrado no [Firefly III](https://demo.firefly-iii.org/) com um usuário e senha válidos |
+| 1 | O Usuário deve estar cadastrado e logado no [Firefly III](https://demo.firefly-iii.org/) com um usuário e senha válidos |
 
 ## Pós-condição
 

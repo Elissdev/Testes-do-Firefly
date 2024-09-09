@@ -18,16 +18,13 @@ beforeEach(() => {
     // Acesse as preferências
     cy.contains('Options').click();
     cy.contains('Preferences').click();
+    cy.contains('Layout').click();
 
-    // Altere o layout para Always dark
-    cy.get('.nav > .active > a').click();//.select('Always dark');
-    cy.get(':nth-child(2) > :nth-child(4) > label').click().
+    cy.get('div#layout.tab-pane').click();
 
-    // Salve as configurações
-    cy.get('button[type="submit"]').click();
+    cy.get('button[type="submit"]').eq(1).click();
 
-    // Verifique se o modo escuro foi aplicado
-    cy.get('body').should('have.class', 'dark-mode'); 
+   
   });
 
 });

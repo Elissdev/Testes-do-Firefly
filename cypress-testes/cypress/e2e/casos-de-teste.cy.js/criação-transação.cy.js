@@ -45,4 +45,3 @@ describe('Caso de Teste 12: Funcionalidade de Criação de Transação', () => {
       cy.contains('Cash account').should('be.visible'); // Verifica a conta de destino
     });
   });
-  

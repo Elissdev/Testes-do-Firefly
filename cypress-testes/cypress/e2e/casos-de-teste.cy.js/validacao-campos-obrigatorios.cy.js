@@ -34,6 +34,7 @@ describe('Validação de Campos Obrigatórios', () => {
         // Verificar mensagens de erro gerais e destaque dos campos obrigatórios
 
         cy.contains('Error! There was something wrong with your submission. Please check out the errors below.').should('be.visible');
+      
         cy.get('input[name*=description]').should('have.class', 'is-invalid');
         cy.get("input[name*=source]").should('have.class', 'is-invalid');
         cy.get("input[name*=amount]").should('have.class', 'is-invalid');
